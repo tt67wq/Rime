@@ -1,0 +1,9 @@
+2020/05/22-17:11:39.837895 140399818188544 Log #167: 4 ops saved to Table #168 OK
+2020/05/22-17:11:39.837947 140399818188544 Archiving /home/manjaro/.config/fcitx/rime/pinyin_simp.userdb/000167.log: OK
+2020/05/22-17:11:39.837975 140399818188544 Table #166: 64 entries OK
+2020/05/22-17:11:39.837991 140399818188544 Table #163: 8 entries OK
+2020/05/22-17:11:39.838004 140399818188544 Table #157: 2 entries OK
+2020/05/22-17:11:39.838050 140399818188544 Table #155: 752 entries OK
+2020/05/22-17:11:39.838057 140399818188544 Table #168: 4 entries OK
+2020/05/22-17:11:39.838094 140399818188544 Archiving /home/manjaro/.config/fcitx/rime/pinyin_simp.userdb/MANIFEST-000165: OK
+2020/05/22-17:11:39.839159 140399818188544 **** Repaired leveldb /home/manjaro/.config/fcitx/rime/pinyin_simp.userdb; recovered 5 files; 30271 bytes. Some data may have been lost. ****
